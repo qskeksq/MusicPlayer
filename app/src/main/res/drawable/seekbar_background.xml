@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 배경 -->
+    <item android:id="@+id/background">
+        <shape android:shape="line">
+            <stroke android:width="8dp" android:color="#E4E4E4" />
+        </shape>
+    </item>
+
+
+    <!--<item>-->
+        <!--<clip>-->
+            <!--<shape android:shape="line" >-->
+                <!--<stroke android:width="6dp" android:color="#E4E4E4" />-->
+            <!--</shape>-->
+        <!--</clip>-->
+    <!--</item>-->
+
+
+    <item android:id="@+id/progress">
+        <clip>
+            <shape android:shape="line">
+                <stroke android:width="8dp" android:color="@color/basic_background" />
+            </shape>
+        </clip>
+
+    </item>
+
+</layer-list>

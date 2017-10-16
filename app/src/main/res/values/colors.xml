@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="basic_background">#8B48F0</color>
+    <color name="tab_indicator">#ffffff</color>
+    <color name="color_title">#000000</color>
+    <color name="color_separator">#EFEFEF</color>
+    <color name="color_song_time">#7E7E7E</color>
+    <color name="color_bottom_toolbar">#F3F0F9</color>
+
+    <color name="color_player_background">#7F7F7F</color>
+    <color name="color_player_statusbar">#46494E</color>
+
+    <color name="colo_pager_background_p">#c1b4d4</color>
+
+</resources>

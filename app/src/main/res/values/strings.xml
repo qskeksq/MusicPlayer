@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="toolbar_title">음악 라이브러리</string>
+
+    <string name="tab_songs">노래</string>
+    <string name="tab_album">앨범</string>
+    <string name="tab_artist">아티스트</string>
+    <string name="tab_genre">폴더</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
