@@ -6,7 +6,7 @@
 - Service, Foreground Service
 
 ![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144506.jpg)
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144403.jpg)
+![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144403_360x640.jpg)
 ![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144410.jpg)
 ![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144531.jpg)
 ![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_151216.jpg)
