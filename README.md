@@ -5,11 +5,10 @@
 - Observer Design Pattern
 - Service, Foreground Service
 
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pict/20171116_144506_360x640.jpg)
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pict/20171116_144403_360x640.jpg)
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pict/20171116_144410_360x640.jpg)
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pict/20171116_144531_360x640.jpg)
-![](https://github.com/qskeksq/MusicPlayer/blob/master/pict/20171116_151216_360x640.jpg)
+![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144506_360x640.jpg)
+![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144410_360x640.jpg)
+![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_144531_360x640.jpg)
+![](https://github.com/qskeksq/MusicPlayer/blob/master/pic/20171116_151216_360x640.jpg)
 
 ## 플레이 과정
 
